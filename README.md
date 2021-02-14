@@ -13,7 +13,7 @@
     - Neural Networks
       - Tensorflow (Python)
     
-- 🌱 I’m currently learning:
+- 📗 I’m currently learning:
   -
   
   - Machine Learning techniques
