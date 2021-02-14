@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @omer9872
   -
-- 👀 I’m interested in ...
+- 👀 I’m interested in:
   -
+  
     - IoT devices and projects
       - Arduino (C)
     - Web Developing
@@ -12,10 +13,13 @@
     - Neural Networks
       - Tensorflow (Python)
     
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   -
-
+  
   - Machine Learning techniques
+  
+- 🔍 You can check my repos.
+  -
 
 <!---
 omer9872/omer9872 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
