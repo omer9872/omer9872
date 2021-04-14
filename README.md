@@ -5,10 +5,10 @@
   
     - IoT devices and projects
       - Arduino (C)
-    - Web Developing
+    - Web Development
       - Back-End (ExpressJS)
       - Front-End (ReactJS)
-    - Android Developing
+    - Android Development
       - Android Studio (Java)
     - Neural Networks
       - Tensorflow (Python)
