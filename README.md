@@ -17,6 +17,7 @@
   -
   
   - Machine Learning techniques
+  - IOS development with SwiftUI
   
 - 🔍 You can check my repos.
   -
