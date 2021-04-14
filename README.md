@@ -9,7 +9,7 @@
       - Back-End (ExpressJS)
       - Front-End (ReactJS)
     - Android Developing
-      - Andoid Studio (Java)
+      - Android Studio (Java)
     - Neural Networks
       - Tensorflow (Python)
     
