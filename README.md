@@ -7,17 +7,17 @@
       - Arduino (C)
     - Web Development
       - Back-End (ExpressJS)
-      - Front-End (ReactJS)
-    - Android Development
-      - Android Studio (Java)
+      - Front-End (ReactJS, VueJS)
+    - Mobile Development
+      - Android Studio (Java), Flutter
     - Neural Networks
       - Tensorflow (Python)
     
-- 📗 I’m currently learning:
+- 📗 I’m currently working on:
   -
   
-  - Machine Learning techniques
-  - IOS development with SwiftUI
+  - P2P communications.
+  - Live streaming.
   
 - 🔍 You can check my repos.
   -
