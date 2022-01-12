@@ -3,21 +3,23 @@
 - 👀 I’m interested in:
   -
   
-    - IoT devices and projects
-      - Arduino (C)
-    - Web Development
-      - Back-End (ExpressJS)
-      - Front-End (ReactJS, VueJS)
+    - Back-End  Development
+      - ExpressJS - Typescript
+      - MongoDB
+      - MySQL
+      - PostgreSQL
+    - Front-End Web Development
+      - ReactJS
+      - NextJS
     - Mobile Development
-      - Android Studio (Java), Flutter
-    - Neural Networks
-      - Tensorflow (Python)
+      - Flutter
+    - DevOps
+      - Git, Docker, Nginx, Ubuntu, AWS
     
 - 📗 I’m currently working on:
   -
   
-  - P2P communications.
-  - Live streaming.
+  - NextJS, GraphQL
   
 - 🔍 You can check my repos.
   -
